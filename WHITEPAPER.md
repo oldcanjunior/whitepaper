@@ -26,7 +26,7 @@ _NOTE: This document is under development. Please check regularly for updates!_
   * [Rewarding](#rewarding)
   * [Slashing](#slashing)
 - [Relayers](#relayers)
-  * [Incentives](#incentives)
+  * [Incentives](#incentives) kkk
   * [Oracle Relayers](#oracle-relayers)
 - [Outlook](#outlook)
 # Motivation
